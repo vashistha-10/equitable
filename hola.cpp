@@ -1,5 +1,5 @@
 #include <bits/stdc++.h> 
-#define ll long long 
+#define ll long long int
 #define ld long double
 using namespace std;
 
